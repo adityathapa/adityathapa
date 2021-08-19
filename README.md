@@ -3,6 +3,7 @@
 - 🤔 I’m looking for help with web development <br>
 - 💬 Ask me about anything <br>
 - ⚡ Fun fact: I love playing games and developing them! <br>
+- 🗣️ Reach me at: aditya.th9098@gmail.com
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityathapa&label=Profile%20views&color=0ea1b4&style=plastic" alt="adityathapa" /> </p>

@@ -1,5 +1,10 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://github.com/adityathapa/adityathapa/blob/f61378dea4a0b404dce879e76a80e42b47257703/header.png" alt="banner that says Aditya Thapa">
+- 🌱 I’m currently learning Machine Learning <br>
+- 🤔 I’m looking for help with web development <br>
+- 💬 Ask me about anything <br>
+- ⚡ Fun fact: I love playing games and developing them! <br>
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityathapa&label=Profile%20views&color=0ea1b4&style=plastic" alt="adityathapa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adi_thapa_" target="blank"><img src="https://img.shields.io/twitter/follow/adi_thapa_?logo=twitter&style=for-the-badge" alt="adi_thapa_" /></a> </p>
